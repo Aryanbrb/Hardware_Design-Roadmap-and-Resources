@@ -12,5 +12,6 @@ Now coming to resources, I will be following the same order as given in roadmap 
 
 1. Fundamentals: 
 
-i. Mathematics:  a. Algerba: https://youtu.be/zPgfIOWVnF4?si=QavQjn4ssjnb5_Q4
-                 b. Calculus: https://youtu.be/HfACrKJ_Y2w?si=JkLvcUBhhLOPLW6b
+(i) Mathematics:  
+a. Algerba: https://youtu.be/zPgfIOWVnF4?si=QavQjn4ssjnb5_Q4
+b. Calculus: https://youtu.be/HfACrKJ_Y2w?si=JkLvcUBhhLOPLW6b
