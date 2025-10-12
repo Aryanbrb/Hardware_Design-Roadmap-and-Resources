@@ -5,3 +5,5 @@ Hardware design is a whole subject in it's own, it's so vast that colleges shoul
 # Roadmap
 
 <img width="21280" height="9068" alt="Untitled-2025-10-11-2241 excalidraw" src="https://github.com/user-attachments/assets/481a85e9-a112-46df-ab18-1a7b8b2e6b02" />
+
+If the above image is not clear to you, please find the above roadmap flow-chart in this [link]([url](https://excalidraw.com/#json=Ht6bHfV8kJDNlOGHZ9p6F,Glqa7xzkSr7VlOOIPy0sxw))
