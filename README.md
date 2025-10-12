@@ -5,9 +5,10 @@ Hardware design is a whole subject in it's own, it's so vast that colleges shoul
 # Roadmap
 Zoom into the image to see clearly.
 
-<img width="21280" height="9068" alt="Untitled-2025-10-11-2241 excalidraw" src="https://github.com/user-attachments/assets/481a85e9-a112-46df-ab18-1a7b8b2e6b02" />
+<img width="7093" height="2346" alt="Untitled-2025-10-12-1220 excalidraw" src="https://github.com/user-attachments/assets/9ccba070-f17e-4c1f-85f3-710a2ee6b55b" />
 
-If the above image is not clear to you, please find the above roadmap flow-chart in this [link](https://excalidraw.com/#json=Ht6bHfV8kJDNlOGHZ9p6F,Glqa7xzkSr7VlOOIPy0sxw)
+
+If the above image is not clear to you, please find the above roadmap flow-chart in this [link](https://excalidraw.com/#json=CoblcqLFV3Jr4j8zNsD-c,ciOxkb7jSFI6pGBEDbEvug)
 
 Now coming to resources, I will be following the same order as given in roadmap above for you to relate with.
 
