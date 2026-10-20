@@ -19,9 +19,7 @@ Related paths: [ASIC design](https://github.com/abdelazeem201/ASIC-Design-Roadma
 **Resource labels:** **Core** = suggested starting material; **Reference** = consult for a particular design; **Optional** = additional depth or an alternative. Select relevant chapters and modules rather than completing every resource.
 
 ## Roadmap
-
-![Six-stage board-level hardware design roadmap with milestones and a recurring engineering workflow](<img width="10016" height="3877" alt="Untitled-2025-01-11-0912 excalidraw" src="https://github.com/user-attachments/assets/9f59620e-5a3a-4611-b4a8-6324c3afaded" />
-)
+<img width="10016" height="3877" alt="Untitled-2025-01-11-0912 excalidraw" src="https://github.com/user-attachments/assets/fbd57701-6724-40b6-8c1d-aca09fa75867" />
 
 **[Download the editable Excalidraw roadmap](roadmap.excalidraw)** · [Open SVG preview](roadmap.svg)
 
