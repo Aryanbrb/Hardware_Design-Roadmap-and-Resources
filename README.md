@@ -21,7 +21,7 @@ Related paths: [ASIC design](https://github.com/abdelazeem201/ASIC-Design-Roadma
 ## Roadmap
 <img width="10016" height="3877" alt="Untitled-2025-01-11-0912 excalidraw" src="https://github.com/user-attachments/assets/fbd57701-6724-40b6-8c1d-aca09fa75867" />
 
-**[Download the editable Excalidraw roadmap](roadmap.excalidraw)** · [Open SVG preview](roadmap.svg)
+**[You can also visit this link to get a clear view of the above roadmap](https://excalidraw.com/#json=3OFEYMvETO_pbv8boJfoh,LnUjXh0050WzIRlnsx9KZw)**
 
 To edit the diagram, download `roadmap.excalidraw`, open [Excalidraw](https://excalidraw.com), and choose **Open** or drag the file onto the canvas. Shapes, text, and arrows are editable. The text below provides an accessible version of the roadmap.
 
