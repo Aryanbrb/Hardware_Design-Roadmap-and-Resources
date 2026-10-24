@@ -20,6 +20,8 @@ Related paths: [ASIC design](https://github.com/abdelazeem201/ASIC-Design-Roadma
 
 ## Roadmap
 <img width="10016" height="3877" alt="Untitled-2025-01-11-0912 excalidraw" src="https://github.com/user-attachments/assets/fbd57701-6724-40b6-8c1d-aca09fa75867" />
+My personal experience of learning Hardware Design:
+ <img width="20508" height="7022" alt="Roadmap" src="https://github.com/user-attachments/assets/161b68cf-1be0-4c95-afa0-f8ab903f3397" />
 
 **[You can also visit this link to get a clear view of the above roadmap](https://excalidraw.com/#json=3OFEYMvETO_pbv8boJfoh,LnUjXh0050WzIRlnsx9KZw)**
 
